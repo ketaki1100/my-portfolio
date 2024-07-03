@@ -13,7 +13,14 @@ body {
   padding: 0;
   width: 100%;
 }
+.topName {
+  color: white;
+}
 
+.topTitle {
+  color: white;
+  margin-top: 20px;
+}
 div#main {
   display: flex;
   flex-direction: column;
